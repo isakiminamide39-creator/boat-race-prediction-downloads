@@ -14,11 +14,22 @@ Windows 7／8／8.1、32ビット版Windowsはサポート対象外です。
 
 インストールファイルは、このページの「Releases」からダウンロードできます。
 
-- 製品バージョン：1.2.1
-- ファイル名：`Boat_setup_1.2.1_Windows.exe`
-- SHA-256：`489DC7E6F5B1FD5DFEC138DB95AE539DF29F0FFD3FBFD68B1ACC29AF01EDF93B`
+- 製品バージョン：1.3.0
+- ファイル名：`BoatRacePrediction_Windows_1.3.0_Setup.exe`
+- SHA-256：`501F2AB5066F1D1CBD5650A6D8E3480E6E4ED9B786D89EE7405FADA045B122C3`
 
-現在のWindows版インストーラーには認証局のコード署名がないため、Windowsの警告画面が表示される場合があります。ダウンロード後、上記SHA-256と一致することを確認してください。
+直近1年50,955レースを使用し、最後の未使用8,318レースで確率を点検したモデルを搭載しています。
+
+## Android版
+
+- 製品バージョン：1.3.0
+- 対応：Android 8.0以降
+- ファイル名：`BoatRacePrediction_Android_1.3.0.apk`
+- SHA-256：`83F545BDA5234E900A0104CA098CF25C4CEC40258B7969C10AEF9BDD673975F9`
+
+Android版は専用リリース鍵で署名しています。
+
+現在のWindows版インストーラーには認証局のコード署名がないため、Windowsの警告画面が表示される場合があります。配布ファイルはMicrosoft Defenderで脅威が検出されないことを確認しています。必要に応じて上記SHA-256と一致することも確認してください。
 
 ## 通信について
 
