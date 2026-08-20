@@ -14,20 +14,31 @@ Windows 7／8／8.1、32ビット版Windowsはサポート対象外です。
 
 インストールファイルは、このページの「Releases」からダウンロードできます。
 
-- 製品バージョン：1.3.0
-- ファイル名：`BoatRacePrediction_Windows_1.3.0_Setup.exe`
-- SHA-256：`501F2AB5066F1D1CBD5650A6D8E3480E6E4ED9B786D89EE7405FADA045B122C3`
+- 製品バージョン：1.5.0
+- ファイル名：`BoatRacePrediction_Windows_1.5.0_Setup.exe`
+- SHA-256：`9FB6F56D38AB0E141AAC31FF63DF4ABEE7FFFB968C53DE8B5AD37EB4FDFC4585`
 
 直近1年50,955レースを使用し、最後の未使用8,318レースで確率を点検したモデルを搭載しています。
 
 ## Android版
 
-- 製品バージョン：1.3.0
+- 製品バージョン：1.5.0
 - 対応：Android 8.0以降
-- ファイル名：`BoatRacePrediction_Android_1.3.0.apk`
-- SHA-256：`83F545BDA5234E900A0104CA098CF25C4CEC40258B7969C10AEF9BDD673975F9`
+- ファイル名：`BoatRacePrediction_Android_1.5.0.apk`
+- SHA-256：`B6382C2292E2A6373A028D251208FDB236DF093134BBD8A2B36177351735A03A`
 
 Android版は専用リリース鍵で署名しています。
+
+## iPhone版
+
+iPhone版はSafariで利用するホーム画面追加方式です。App Store以外の構成ファイルを入れる必要はありません。利用URLは、noteのボートレース用メンバーシップ記事で案内します。
+
+## 利用期間と更新
+
+- この配布版の利用期間：2026年8月15日～2026年10月31日
+- 2026年11月1日以降、この版は利用できません
+- 継続中の方には、noteのメンバーシップ記事で新しい利用URLと最新版ファイルを案内します
+- URLやアプリを第三者へ共有しないでください
 
 現在のWindows版インストーラーには認証局のコード署名がないため、Windowsの警告画面が表示される場合があります。配布ファイルはMicrosoft Defenderで脅威が検出されないことを確認しています。必要に応じて上記SHA-256と一致することも確認してください。
 
